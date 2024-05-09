@@ -1,0 +1,67 @@
+{
+		"The Frets":
+		{
+			"The Frets Tutorial":"0",
+			"Mission 1: The awaking":"3",
+			"Mission 2: New Friends":"6",
+			"Mission 3: Beaver Mound":"9",
+			"Mission 4: The Dragon's Tear":"12",
+			"Mission 5: Border Bash":"15",
+			"Mission 6: Jade Joust":"18",
+			"Mission 7: Totem Thrashing":"21",
+			"Mission 8: Chihuahua Challenge":"24",
+			"Mission 9: Monolith Mayhem":"27",
+			"Mission 10: Agent Rodent":"30",
+			"Mission 11: Scrap Heap Challenge":"33",
+			"Mission 12: Yeti Yogurt":"36",
+			"Mission 13: Snow Scrap":"39",
+			"Mission 14: Artist Annihilation":"42",
+			"Mission 15: Apocalypse Cow":"45",
+			"Mission 16: Lake Of Fire":"48",
+			"The Frets Epilogue":"51"
+		},
+	
+		"The Techies":
+		{
+			"The Techies Tutorial":"1",
+			"Mission 1: On The Road Again":"4",
+			"Mission 2: Muddy souvenirs":"7",
+			"Mission 3: Swamp Things":"10",
+			"Mission 4: The Dragon's Tear":"13",
+			"Mission 5: A Nice Tan":"16",
+			"Mission 6: Tusk Tour":"19",
+			"Mission 7: Tribal Terror":"22",
+			"Mission 8: Chihuahua Challenge":"25",
+			"Mission 9: Home Sweet Home":"28",
+			"Mission 10: Area 51":"31",
+			"Mission 11: Monkey Business":"34",
+			"Mission 12: Yeti Yogurt":"37",
+			"Mission 13: Island Incident":"40",
+			"Mission 14: Autographs":"43",
+			"Mission 15: Penguin Panic":"46",
+			"Mission 16: Lake Of Fire":"49",
+			"The Techies Epilogue":"52"		
+		},
+		
+		"The Pack":
+		{
+			"The Pack Tutorial":"2",
+			"Mission 1: First Strike":"5",
+			"Mission 2: Marsh Mayhem":"8",
+			"Mission 3: Get The Garrison":"11",
+			"Mission 4: The Dragon's Tear":"14",
+			"Mission 5: The Homecoming":"17",
+			"Mission 6: Run The Gauntlet":"20",
+			"Mission 7: Revolution!":"23",
+			"Mission 8: Chihuahua Challenge":"26",
+			"Mission 9: Crater Combat":"29",
+			"Mission 10: Anger Management":"32",
+			"Mission 11: Party Crashers":"35",
+			"Mission 12: Yeti Yogurt":"38",
+			"Mission 13: Fjord Fight":"41",
+			"Mission 14: Cattle Hunt":"44",
+			"Mission 15: Huffing & Puffing":"47",
+			"Mission 16: Lake Of Fire":"50",
+			"The Pack Epilogue":"53"
+		} 
+}
